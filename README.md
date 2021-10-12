@@ -1,6 +1,7 @@
 # wlp4i
 
-Implemented a parser, analyzer
+Implemented a parser(Bottom up parser), analyzer, context sensitive analysis and code generation mechanism for the language wlp4i(subset of C++) for the mips microprocessor.
+ 
 ![image](https://user-images.githubusercontent.com/51160129/137040278-e430cf38-e228-4414-97a5-d73a87201836.png)
 
 
